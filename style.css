@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://media.gettyimages.com/id/165959221/vector/books-icons.jpg?s=1024x1024&w=gi&k=20&c=RP8juz9fGHGoSOw1w1SPNsULqnqufgpNSHSZYn6tz9o=");
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif cursive;
+}
+
+.cont{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.6);
+    width: 80%;
+    margin: 10px;
+    max-width: 450px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.input{
+    height: 53px;
+    width: 300px;
+    background-color: rgba(255,255,255,.8);
+    border-color: rgba(255,255,255,.9);
+    font-size: 16px;
+    padding: 0 42px;
+    border-radius: 5px;
+}
+
+.meaning-cont{
+    display: none ;
+}
+
